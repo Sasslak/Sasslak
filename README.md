@@ -11,6 +11,6 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" width="50" hight="50" title="WordPress">
   <img src="https://github.com/danieleverest/skill-icons/blob/main/icons/Windows-Dark.svg" width="50" hight="50" title="Windows">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="50" hight="50" title="Git">
-  <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-0.png" width="50" hight="50" title="Photoshop">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" width="50" hight="50" title="Photoshop">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="50" hight="50" title="GitHub">
 </div>
