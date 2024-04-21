@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**Sasslak/Sasslak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hello Guys, I'm Soheil
++ Lover of the computer world !!
+---
+# Tools and Skills : 
+<div style="display: inline-block">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="50" hight="50" title="Python">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="50" hight="50" title="VSCode">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="50" hight="50" title="HMTL">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="50" hight="50" title="CSS">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="50" hight="50" title="BootStrap">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" width="50" hight="50" title="WordPress">
+  <img src="https://github.com/danieleverest/skill-icons/blob/main/icons/Windows-Dark.svg" width="50" hight="50" title="Windows">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="50" hight="50" title="Git">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="50" hight="50" title="GitHub">
+</div>
