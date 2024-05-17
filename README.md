@@ -8,6 +8,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="50" hight="50" title="Python">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="50" hight="50" title="HTML">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="50" hight="50" title="CSS">
+  <img src="https://github.com/danieleverest/skill-icons/blob/main/icons/Sass.svg" width="50" hight="50" title="Sass">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="50" hight="50" title="BootStrap">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50" hight="50" title="JS">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" width="50" hight="50" title="WordPress">
